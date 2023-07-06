@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Module 2 Solution</title>
+    <link rel="stylesheet" href="module2.css">
+</head>
+<body>
+    <h1>Our Menu</h1>
+    <section class="column-lg-4 colmn-md-6 colmn-sm-12">
+        <div>
+            <p class="sub1">Chicken</p>
+            <p class="content">
+                Lorem ipsum dolor sit, amet consectetur adipisicing elit. Cum saepe enim, facilis neque iste consequuntur nemo. Eos laudantium architecto aperiam dolorum? Eius qui, iure odit saepe veniam aliquid assumenda provident debitis facilis, laudantium quo commodi excepturi aspernatur earum nesciunt quia ab inventore? Eius odio veniam ipsa non quia placeat similique minus, amet, necessitatibus voluptate fuga voluptatibus nobis dolorem. Dolore accusamus ea voluptatum adipisci excepturi provident porro inventore, recusandae deserunt veniam quae autem nisi consectetur quod doloremque eligendi doloribus, iure neque? Et quod, corrupti eius quibusdam sunt, dolorum porro quo quas explicabo deserunt soluta dolor aut aperiam, ut odit veritatis accusamus.</p>
+        </div>
+    </section>
+    <section class="column-lg-4 colmn-md-6 colmn-sm-12">
+        <div>
+            <p class="sub2">Beef</p>
+            <p class="content">
+                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Esse magni repudiandae neque amet provident ipsum! Nihil ea quis rem magni libero optio quasi ipsa consectetur! Porro magni ab facere voluptates vel ad accusamus totam aliquam harum esse. Aperiam assumenda repellendus neque explicabo, quo molestias facilis nam quasi, est maxime sint doloribus earum aut officia dolorum ea hic cupiditate enim sapiente. Perferendis natus fuga, velit sapiente dolore illo veritatis ratione, id eos doloribus minima voluptates omnis!</p>
+        </div>
+    </section>
+    <section class="column-lg-4 colmn-md-12 colmn-sm-12">
+        <div>
+            <p class="sub3">Sushi</p>
+            <p class="content">
+                Lorem, ipsum dolor sit amet consectetur adipisicing elit. Atque ut asperiores vero quidem? Modi nostrum, similique corporis delectus eaque voluptatum. Alias nostrum odio voluptas, iusto, molestias aut id obcaecati nesciunt aliquam sapiente quos, qui quo architecto ut quod quae iste suscipit accusantium? Aliquam, nesciunt blanditiis fugiat quidem recusandae ad tempore eaque amet officiis quas neque quasi ex laboriosam? Culpa facere a deleniti soluta nobis ipsum aliquam architecto nemo? Natus dolores magnam odit illo iure minima provident tenetur porro at error.</p>
+        </div>
+    </section>
+</body>
+</html>
